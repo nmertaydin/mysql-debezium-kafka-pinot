@@ -1,8 +1,8 @@
 # MySQL Debezium Kafka Pinot CDC Flow
 
-This is another PoC I prepared to demonstrate CDC (change data capture).
+This is another tryout I prepared to demonstrate CDC (change data capture).
 
-[Here]() is my post about this PoC.
+[Here](https://mert.codes/hello-hello-i-detected-a-change-on-this-database-1bdadea6b4c6) is my post about this tryout.
 
 ### The Ingredients
 
